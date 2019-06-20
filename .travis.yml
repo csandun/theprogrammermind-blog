@@ -6,7 +6,7 @@ sudo: false
 
 branches:
   only:
-  - master
+  - gh-pages
 
 cache:
   yarn: true
