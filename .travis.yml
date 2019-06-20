@@ -21,7 +21,7 @@ install:
   - yarn 
 
 script:
-  - yarn minimal-build  --base-href https://chathurangasandun.github.io/theprogrammermind-blog/
+  - yarn minimal-build --base-href https://chathurangasandun.github.io/theprogrammermind-blog/
 
 deploy:
   provider: pages
@@ -30,4 +30,4 @@ deploy:
   github_token: $GITHUB_TOKEN
   local_dir: packages/personal-blog-minimal/public
   on:
-    branch: gh-pages
+    branch: master
