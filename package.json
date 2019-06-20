@@ -1,0 +1,41 @@
+{
+  "name": "StoryHub",
+  "private": true,
+  "description": "",
+  "version": "1.0.0",
+  "author": "RedQ, Inc",
+  "devDependencies": {
+    "lerna": "^3.13.1",
+    "husky": "^1.1.4",
+    "lint-staged": "^8.0.4",
+    "prettier": "^1.15.2",
+    "rimraf": "^2.6.3",
+    "tslint": "^5.13.0",
+    "tslint-react": "^3.6.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "personal-dev": "cd packages/personal-blog && gatsby develop",
+    "personal-build": "cd packages/personal-blog && gatsby build",
+    "personal-serve": "cd packages/personal-blog && gatsby serve",
+    "agency-dev": "cd packages/agency-blog && gatsby develop",
+    "agency-build": "cd packages/agency-blog && gatsby build",
+    "agency-serve": "cd packages/agency-blog && gatsby serve",
+    "minimal-dev": "cd packages/personal-blog-minimal && gatsby develop",
+    "minimal-build": "cd packages/personal-blog-minimal && gatsby build",
+    "minimal-serve": "cd packages/personal-blog-minimal && gatsby serve"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,md,css}": [
+      "prettier --trailing-comma es5 --single-quote --write",
+      "git add"
+    ]
+  }
+}
