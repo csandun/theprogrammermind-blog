@@ -22,3 +22,12 @@ install:
 
 script:
   - yarn minimal-build
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  keep-history: true
+  github_token: $GITHUB_TOKEN
+  local_dir: packages/personal-blog-minimal/public
+  on:
+    branch: gh-pages
