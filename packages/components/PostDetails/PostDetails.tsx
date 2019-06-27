@@ -42,6 +42,8 @@ const PostDetails: React.FunctionComponent<PostDetailsProps> = ({
     addClass.push(className);
   }
 
+
+
   return (
     <PostDetailsWrapper {...props} className={addClass.join(' ')}>
       {imagePosition == 'left' ? (
