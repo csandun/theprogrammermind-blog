@@ -2,7 +2,7 @@
 title: This is markdown unity test!
 date: '2019-04-22'
 tags: ['markdown', 'test', 'unity']
-cover: './preview-1.jpg'
+cover: './download.png'
 ---
 
 Documentation stored with source files shares the same permissions.
