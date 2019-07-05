@@ -44,6 +44,7 @@ const PostCard: React.FunctionComponent<PostCardProps> = ({
   }
 
   return (
+    
     <PostCardWrapper className={addAllClasses.join(' ')} {...props}>
       {image == null ? null : (
         <PostPreview className="post_preview">
@@ -56,7 +57,7 @@ const PostCard: React.FunctionComponent<PostCardProps> = ({
           </Link>
         </PostPreview>
       )}
-
+  
       <PostDetails className="post_details">
         {date && (
           <PostDate
