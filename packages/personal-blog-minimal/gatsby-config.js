@@ -5,7 +5,7 @@ require('dotenv').config({
 module.exports = {
   siteMetadata: {
     title: `StoryHub`,
-    author: `David`,
+    author: `Chathuranga Sandun`,
     about: `Breakfast procuring no end happiness allowance assurance frank. Met simplicity nor difficulty unreserved who. Entreaties mr conviction dissimilar me
     astonished estimating cultivated.`,
     description: `A Gatsby Blog`,
