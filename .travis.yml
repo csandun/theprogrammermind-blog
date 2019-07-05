@@ -21,7 +21,7 @@ install:
   - yarn 
 
 script:
-  - yarn personal-build --base-href https://chathurangasandun.github.io/theprogrammermind-blog/
+  - yarn minimal-build --base-href https://chathurangasandun.github.io/theprogrammermind-blog/
 
 deploy:
   provider: pages
