@@ -28,6 +28,6 @@ deploy:
   skip_cleanup: true
   keep-history: true
   github_token: $GITHUB_TOKEN
-  local_dir: packages/personal-blog/public
+  local_dir: packages/personal-blog-minimal/public
   on:
     branch: master
