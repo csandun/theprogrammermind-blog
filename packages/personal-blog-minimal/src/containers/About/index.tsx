@@ -75,8 +75,11 @@ const About: React.FunctionComponent<AboutProps> = props => {
         <Image fluid={Data.avatar.childImageSharp.fluid} alt="author" />
       </AboutImage>
 
+      
       <AboutDetails>
         <h2>Hey there, what’s up?</h2>
+        
+
         <p>
           RedQ Team is a creative agency specializing in building scalable,
           high-performance web & mobile application. Our main concern is
