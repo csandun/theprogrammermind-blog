@@ -5,8 +5,8 @@ import SocialProfile from "components/SocialProfile/SocialProfile"
 import {
   IoLogoFacebook,
   IoLogoTwitter,
-  IoLogoInstagram,
   IoLogoLinkedin,
+  IoLogoGithub,
 } from "react-icons/io"
 import {
   AboutWrapper,
@@ -19,22 +19,22 @@ import {
 const SocialLinks = [
   {
     icon: <IoLogoFacebook />,
-    url: "https://www.facebook.com/redqinc/",
+    url: "https://www.facebook.com/chathurangasandunkumara",
     tooltip: "Facebook",
   },
   {
-    icon: <IoLogoInstagram />,
-    url: "https://www.instagram.com/redqinc/",
-    tooltip: "Instagram",
+    icon: <IoLogoGithub />,
+    url: "https://github.com/ChathurangaSandun",
+    tooltip: "Github",
   },
   {
     icon: <IoLogoTwitter />,
-    url: "https://twitter.com/redqinc",
+    url: "https://twitter.com/csandunkumara",
     tooltip: "Twitter",
   },
   {
     icon: <IoLogoLinkedin />,
-    url: "https://www.linkedin.com/company/redqinc/",
+    url: "https://www.linkedin.com/in/csandun/",
     tooltip: "Linked In",
   },
 ]

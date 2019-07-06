@@ -11,12 +11,14 @@ import {
   TwitterShareButton,
   PinterestShareButton,
   RedditShareButton,
+  LinkedinShareButton,
 } from "react-share"
 import {
   IoLogoFacebook,
   IoLogoTwitter,
   IoLogoPinterest,
   IoLogoReddit,
+  IoLogoLinkedin,
 } from "react-icons/io"
 import {
   BlogPostDetailsWrapper,
@@ -79,28 +81,12 @@ const BlogPostTemplate = (props: any) => {
             >
               <IoLogoFacebook />
             </FacebookShareButton>
-            <TwitterShareButton
+            <LinkedinShareButton
               url={post.fields.slug}
               title={post.frontmatter.title}
             >
-              <IoLogoTwitter />
-            </TwitterShareButton>
-            <PinterestShareButton
-              url={post.fields.slug}
-              media={`${
-                post.frontmatter.cover == null
-                  ? null
-                  : post.frontmatter.cover.childImageSharp.fluid
-              }`}
-            >
-              <IoLogoPinterest />
-            </PinterestShareButton>
-            <RedditShareButton
-              url={post.fields.slug}
-              title={`${post.frontmatter.title}`}
-            >
-              <IoLogoReddit />
-            </RedditShareButton>
+              <IoLogoLinkedin />
+            </LinkedinShareButton>
           </PostShare>
         </BlogPostFooter>
         <BlogPostComment
