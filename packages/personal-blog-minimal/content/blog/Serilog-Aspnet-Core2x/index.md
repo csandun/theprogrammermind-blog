@@ -28,6 +28,10 @@ We recommend that Git repositories have an up-to-date top-level
 
 ## Markdown syntax
 
+<figure class="video_container">
+  <iframe width='853' height='480' src='https://embed.coggle.it/diagram/XMKaQWSy4B7klOlp/32fbad933ab21fd9e50b807dcde7e6599f915c3957c5de9130e5805d268e2969' frameborder='2' allowfullscreen></iframe>
+</figure>
+
 Gitiles supports the core Markdown syntax described in
 [Markdown Basics]. Additional extensions are supported
 to more closely match [GitHub Flavored Markdown] and
