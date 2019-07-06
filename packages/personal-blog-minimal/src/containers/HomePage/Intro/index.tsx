@@ -14,6 +14,7 @@ import {
   IoLogoTwitter,
   IoLogoInstagram,
   IoLogoGithub,
+  IoLogoLinkedin,
 } from "react-icons/io"
 
 type IntroProps = {}
@@ -21,23 +22,23 @@ type IntroProps = {}
 const SocialLinks = [
   {
     icon: <IoLogoFacebook />,
-    url: "#",
+    url: "https://www.facebook.com/chathurangasandunkumara",
     tooltip: "Facebook",
   },
   {
-    icon: <IoLogoInstagram />,
-    url: "#",
-    tooltip: "Instagram",
+    icon: <IoLogoGithub />,
+    url: "https://github.com/ChathurangaSandun",
+    tooltip: "Github",
   },
   {
     icon: <IoLogoTwitter />,
-    url: "#",
+    url: "https://twitter.com/csandunkumara",
     tooltip: "Twitter",
   },
   {
-    icon: <IoLogoGithub />,
-    url: "#",
-    tooltip: "Github",
+    icon: <IoLogoLinkedin />,
+    url: "https://www.linkedin.com/in/csandun/",
+    tooltip: "Linked In",
   },
 ]
 
