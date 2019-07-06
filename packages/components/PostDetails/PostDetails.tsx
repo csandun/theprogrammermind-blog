@@ -34,6 +34,9 @@ const PostDetails: React.FunctionComponent<PostDetailsProps> = ({
 }) => {
   const addClass: string[] = ['post_details'];
 
+  imagePosition = "top";
+
+
   if (imagePosition == 'left') {
     addClass.push('image_left');
   }

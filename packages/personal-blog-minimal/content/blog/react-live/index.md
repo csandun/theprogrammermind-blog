@@ -2,7 +2,8 @@
 title: Code blocks are very useful for developers
 date: '2019-05-26'
 tags: ['react', 'javascript']
-cover: './preview.jpg'
+cover: './Ko-Chang-500x300.jpg'
+imagePosition: 'top'
 ---
 
 Steve Holt! No, I did not kill Kitty. However, I am going to oblige and answer the nice officer’s questions because I am an honest man with no secrets to hide. I don’t criticize you! And if you’re worried about criticism, sometimes a diet is the best defense.
@@ -16,6 +17,7 @@ for i in range(10):
     # (but not *too* quick)
     time.sleep(0.5)
     print(i)
+
 ```
 
 No! I was ashamed to be SEEN with you. I like being with you. There’s so many poorly chosen words in that sentence. No… but I’d like to be asked! Whoa, this guy’s straight?
