@@ -76,13 +76,13 @@ const BlogPostTemplate = (props: any) => {
           <PostShare>
             <span>Share This:</span>
             <FacebookShareButton
-              url={post.fields.slug}
+              url={'theprogrammermind.com'+post.fields.slug}
               quote={post.frontmatter.title}
             >
               <IoLogoFacebook />
             </FacebookShareButton>
             <LinkedinShareButton
-              url={post.fields.slug}
+              url={'theprogrammermind.com'+post.fields.slug}
               title={post.frontmatter.title}
             >
               <IoLogoLinkedin />
