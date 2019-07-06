@@ -26,6 +26,8 @@ browsing the repository, especially first-time users.
 We recommend that Git repositories have an up-to-date top-level
 `README.md` file.
 
+`gist:ChathurangaSandun/ccb3ac55890daa6d609c99508e9aa13a#StudentsController.cs`
+
 ## Markdown syntax
 
 <figure class="video_container">
