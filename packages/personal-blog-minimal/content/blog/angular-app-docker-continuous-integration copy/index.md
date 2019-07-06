@@ -1,6 +1,6 @@
 ---
 title: Asp.Net Continous Integration with Docker
-date: '2019-07-06'
+date: '2019-06-26'
 tags: ['aspnet', 'docker', 'travis', 'CI', 'docker-hub']
 cover: './serilog.png'
 ---

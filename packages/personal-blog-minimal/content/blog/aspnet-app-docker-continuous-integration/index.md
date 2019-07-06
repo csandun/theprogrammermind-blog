@@ -1,6 +1,6 @@
 ---
 title: Angular app Continous Integration with Docker
-date: '2019-07-06'
+date: '2019-07-01'
 tags: ['angular', 'docker', 'travis', 'CI', 'docker-hub']
 cover: './serilog.png'
 ---

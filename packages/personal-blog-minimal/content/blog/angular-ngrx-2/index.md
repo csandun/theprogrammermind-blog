@@ -1,6 +1,6 @@
 ---
 title: Angular NGRX - Part 2
-date: '2019-07-06'
+date: '2019-06-18'
 tags: ['Angular', 'NGRX']
 cover: './ngrx.png'
 ---

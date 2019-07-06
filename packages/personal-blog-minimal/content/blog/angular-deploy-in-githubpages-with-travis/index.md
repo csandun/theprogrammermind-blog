@@ -1,6 +1,6 @@
 ---
 title: Angular Deployment in Github Pages with Travis(CI)
-date: '2019-07-06'
+date: '2019-06-29'
 tags: ['angular', 'github-pages', 'travis', 'CI-CD']
 cover: './serilog.png'
 ---

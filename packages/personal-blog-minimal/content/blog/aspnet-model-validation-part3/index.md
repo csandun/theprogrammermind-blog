@@ -1,6 +1,6 @@
 ---
 title: Asp.net Core 2.2 Automatic Model Validation (Model Validation - Part 3)
-date: '2019-07-06'
+date: '2019-06-10'
 tags: ['aspnet', 'core-2x', 'model-validation', 'problemdetails']
 cover: './serilog.png'
 ---

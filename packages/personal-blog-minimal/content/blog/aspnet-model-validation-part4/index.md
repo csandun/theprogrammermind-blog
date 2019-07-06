@@ -1,6 +1,6 @@
 ---
 title: Fluent Validation Nuget (Model Validation - Part 4)
-date: '2019-07-06'
+date: '2019-06-13'
 tags: ['aspnet', 'core-2x', 'model-validation', 'fluent-validation']
 cover: './serilog.png'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Asp.net Model Validation Introduction (Model Validation Part 1)
-date: '2019-07-06'
+date: '2019-06-01'
 tags: ['aspnet', 'model-validation']
 cover: './serilog.png'
 ---
