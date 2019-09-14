@@ -4,12 +4,11 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: `The Programmer's Mind`,
+    title: `The Programmer Mind`,
     author: `Chathuranga Sandun`,
-    about: `Breakfast procuring no end happiness allowance assurance frank. Met simplicity nor difficulty unreserved who. Entreaties mr conviction dissimilar me
-    astonished estimating cultivated.`,
-    description: `A Gatsby Blog`,
-    siteUrl: `https://redq.io/`,
+    about: ` is a Software Engineer, blogger and freelancer with industry experience with C#, Asp.Net Core,  Angular 2+ and more latest techologies. Contact me through Facebook or Linkedin.`,
+    description: `The Programmer's Mind`,
+    siteUrl: `http://theprogrammermind.com`,
   },
   plugins: [
     {
