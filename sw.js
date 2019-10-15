@@ -26,7 +26,7 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-7fa28adbfe95098e30c6.js"
+    "url": "webpack-runtime-470e50491cb52a6623d4.js"
   },
   {
     "url": "styles.350de55c83b398e6194a.css"
@@ -42,7 +42,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "971653ed6b4d248f851e043bcc49d8a8"
+    "revision": "5eb72ab4f67bef5f7562c718734eb633"
   },
   {
     "url": "google-fonts/s/firasans/v10/va9B4kDNxMZdWfMOD5VnLK3eRhf6.woff2",
@@ -69,23 +69,23 @@ self.__precacheManifest = [
     "revision": "78773521b0ffe376bc7edd8ec2a591fb"
   },
   {
-    "url": "google-fonts/s/poppins/v8/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
+    "url": "google-fonts/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
     "revision": "e535f7856b24153e0f3146e8f90a45c5"
   },
   {
-    "url": "google-fonts/s/poppins/v8/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2",
+    "url": "google-fonts/s/poppins/v9/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2",
     "revision": "e8794816c5eaeaa9dd20a6d77ea3b272"
   },
   {
-    "url": "google-fonts/s/poppins/v8/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
+    "url": "google-fonts/s/poppins/v9/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
     "revision": "aa4405ed937295296cf8510f437628e0"
   },
   {
-    "url": "google-fonts/s/poppins/v8/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
+    "url": "google-fonts/s/poppins/v9/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
     "revision": "61e2d96d01a7eba5ea3ec1bad7e736a8"
   },
   {
-    "url": "google-fonts/s/poppins/v8/pxiEyp8kv8JHgFVrJJfecg.woff2",
+    "url": "google-fonts/s/poppins/v9/pxiEyp8kv8JHgFVrJJfecg.woff2",
     "revision": "1a280523d375e9358d5229df34fc8e94"
   },
   {
@@ -99,7 +99,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/404.html/page-data.json",
-    "revision": "c27b2a7d116eadec9b19099acf678f79"
+    "revision": "5cd94191ec688a4b384c976f3cbfb084"
   },
   {
     "url": "manifest.webmanifest",
