@@ -26,23 +26,23 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-470e50491cb52a6623d4.js"
+    "url": "webpack-runtime-f6a5ea567b1a6e076e57.js"
   },
   {
-    "url": "styles.350de55c83b398e6194a.css"
+    "url": "styles.d329c3fd8bf5e0d74aa7.css"
   },
   {
-    "url": "styles-d9b56fbbbdb3f0b7cbb2.js"
+    "url": "styles-00e5151612df55f23ff8.js"
   },
   {
-    "url": "app-c12e0548e40bec03d0ea.js"
+    "url": "app-4204b35a91d116e9059d.js"
   },
   {
-    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-7142b210a80604c2700b.js"
+    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-8513d6c41b63a2e66b51.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "5eb72ab4f67bef5f7562c718734eb633"
+    "revision": "16ac74d11388aa9b38a04fcce5a34184"
   },
   {
     "url": "google-fonts/s/firasans/v10/va9B4kDNxMZdWfMOD5VnLK3eRhf6.woff2",
@@ -89,21 +89,25 @@ self.__precacheManifest = [
     "revision": "1a280523d375e9358d5229df34fc8e94"
   },
   {
-    "url": "component---src-pages-404-tsx-0f49d94491e988dfdfd5.js"
+    "url": "1-740d34fee9f9ba4f066e.js"
   },
   {
-    "url": "3-9a7e421dfb5c5322d027.js"
+    "url": "3-526eed0b376469d02d2b.js"
   },
   {
-    "url": "1-8ce7e0c1831cccb8998c.js"
+    "url": "component---src-pages-404-tsx-aa6d1b2a1f4e6e0073d1.js"
   },
   {
     "url": "page-data/404.html/page-data.json",
-    "revision": "5cd94191ec688a4b384c976f3cbfb084"
+    "revision": "b22cfbde2526200fcd1b231389b7cfaf"
+  },
+  {
+    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
+    "revision": "62072c07dca234be5b1e09b59fd251c9"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "d7086e4c3819361cee281dbec7d81927"
+    "revision": "a647b0ea1008d374191ef5f024486b6f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
