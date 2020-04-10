@@ -1,3 +1,15 @@
+# The Programmer Mind -Personal Blog [![Build Status](https://travis-ci.org/ChathurangaSandun/theprogrammermind-blog.svg?branch=master)](https://travis-ci.org/ChathurangaSandun/theprogrammermind-blog)
+
+[![](packages/personal-blog-minimal/src/images/logomind.png)](http://theprogrammermind.com/)
+
+**This is my personal blog to share my technical knowladge.**
+
+## Technologies 
+1. React
+2. GraphQL with GraphiQL
+3. CI/CD with Travis    [![Build Status](https://travis-ci.org/ChathurangaSandun/theprogrammermind-blog.svg?branch=master)](https://travis-ci.org/ChathurangaSandun/theprogrammermind-blog)
+4. Deployement gh-Pages
+
 ### Local deployment
 
 1. to install node modules
